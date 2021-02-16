@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Problems/Car price/out/
+/Problems/Car price/out/production/classes/
+/Problems/Car speed/out/
+/Problems/Car speed/out/production/classes/
+/Problems/Constructor property/out/
+/Problems/Constructor property/out/production/classes/
+/Problems/Double characters/out/
+/Problems/Double characters/out/production/classes/
+/Problems/Fabric manufacture/out/
+/Problems/Fabric manufacture/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Rainbow colors/out/
+/Problems/Rainbow colors/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The rainbow order/out/
+/Problems/The rainbow order/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
